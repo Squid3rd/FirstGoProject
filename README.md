@@ -1,0 +1,2 @@
+# FirstGoProject
+- Newbie with Golang
